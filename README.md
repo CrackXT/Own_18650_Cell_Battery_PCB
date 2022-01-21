@@ -3,9 +3,9 @@ PCB files for a 18650 cell mount on a separate board
 
 # Description
 
-Platzhalter - Two Feather/FeatherWing can be placed side by side on this board.
+Compatible with 18650 cell type only!
 
-Platzhalter - The Doubler 1X2, has a tripple duplicate breakout for each pin on a Feather, as well as a bunch of plain grid development holes. Also, the three sets of pins are cross connected and for GND(- or black) and 3.3V(+ or red), they give you a full strip of connected pads.
+This is an external battery cell board that allows you to mount the appropriate cell holder (18650) and thus have better connection and mounting options in your project or case.
 
 The board can be produced here (AISLER) with the files (.brd and .sch) or by any other PCB manufacturer. -> https://aisler.net/
 
