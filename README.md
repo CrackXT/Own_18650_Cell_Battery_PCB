@@ -17,7 +17,7 @@ Top
 Bottom
 ![18650_Bottom](https://user-images.githubusercontent.com/88975406/150596344-960daad6-3992-49b9-b1de-6ccc4c0cf8f4.png)
 
-Routing/Dimensions
+Routing/Dimensions(inch)
 ![18650_v1 1](https://user-images.githubusercontent.com/88975406/150596382-c67c17f7-e0f0-47bb-87c4-3bed3ae96db0.png)
 
 # License
