@@ -1,5 +1,5 @@
 # Own_18650_Cell_Battery_PCB
-Platzhalter - PCB files for two Adafruit Feather/FeatherWing on one PCB (side by side)
+PCB files for a 18650 cell mount on a separate board
 
 # Description
 
@@ -7,7 +7,7 @@ Platzhalter - Two Feather/FeatherWing can be placed side by side on this board.
 
 Platzhalter - The Doubler 1X2, has a tripple duplicate breakout for each pin on a Feather, as well as a bunch of plain grid development holes. Also, the three sets of pins are cross connected and for GND(- or black) and 3.3V(+ or red), they give you a full strip of connected pads.
 
-Platzhalter - The board can be produced here (AISLER) with the files (.brd and .sch) or by any other PCB manufacturer. -> https://aisler.net/
+The board can be produced here (AISLER) with the files (.brd and .sch) or by any other PCB manufacturer. -> https://aisler.net/
 
 # Layout
 
@@ -22,11 +22,10 @@ Routing/Dimensions(inch)
 
 # License
 
-Platzhalter - The design and layout is based on open source publications from Adafruit and has been modified for side-by-side assembly.
+open hardware, use it, mod it, whatever you want, feel free...
 
 # Thanks!
-
-Platzhalter - Great work and many thanks to Adafruit! https://www.adafruit.com/
+Own design and layout.
 
 # Version - Build
 v1.1 - 14.01.2022
