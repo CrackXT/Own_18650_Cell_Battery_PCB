@@ -1,4 +1,5 @@
 # Own_18650_Cell_Battery_PCB
+
 PCB files for a 18650 cell mount on a separate board
 
 # Description
@@ -22,10 +23,12 @@ Routing/Dimensions(inch)
 
 # License
 
-open hardware, use it, mod it, whatever you want, feel free...
+Open hardware, use it, mod it, whatever you want, feel free...
 
 # Thanks!
+
 Own design and layout.
 
 # Version - Build
+
 v1.1 - 14.01.2022
