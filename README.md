@@ -13,13 +13,13 @@ The board can be produced here (AISLER) with the files (.brd and .sch) or by any
 # Layout
 
 Top
-![18650_Top](https://user-images.githubusercontent.com/88975406/162925533-e776c0ec-c374-47a1-9fb9-d4160439d9ea.png)
+![18650_Top](https://user-images.githubusercontent.com/88975406/174847739-8d9fd89c-231e-4f6e-afc6-af8d3f8bd7a0.png)
 
 Bottom
-![18650_Bottom](https://user-images.githubusercontent.com/88975406/162925565-2b8cad3d-4f09-4571-ac01-7e6555ac4c5e.png)
+![18650_Bottom](https://user-images.githubusercontent.com/88975406/174847725-4532f11c-b9bc-4ef4-8832-6e5b74bf0949.png)
 
 Routing/Dimensions(inch)
-![18650_v1 2](https://user-images.githubusercontent.com/88975406/162925593-de75bd2a-04da-4b89-aad9-cc1f23c3fc24.png)
+![18650_v1 3](https://user-images.githubusercontent.com/88975406/174847699-6300d72d-897b-4ad3-952b-4c726ebb1115.png)
 
 # License
 
@@ -31,4 +31,4 @@ Own design and layout.
 
 # Version - Build
 
-v1.2 - 12.04.2022
+v1.3 - 18.06.2022
