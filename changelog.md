@@ -10,3 +10,7 @@ v1.2 - 12.04.2022
 - Replace larger diameter THT pinhole for cell holder
 - Increased the font size of some of the designations
 - Font position optimized
+
+v1.3 - 18.06.2022
+- Optimized some labeling
+- Dimensions reduced
