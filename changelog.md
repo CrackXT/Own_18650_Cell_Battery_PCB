@@ -13,4 +13,4 @@ v1.2 - 12.04.2022
 
 v1.3 - 18.06.2022
 - Optimized some labeling
-- Dimensions reduced
+- PCB downsized
