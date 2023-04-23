@@ -21,6 +21,8 @@ Bottom
 Routing/Dimensions(inch)
 ![18650_v1 3](https://user-images.githubusercontent.com/88975406/174847699-6300d72d-897b-4ad3-952b-4c726ebb1115.png)
 
+Schematic as .pdf at the top of the page.
+
 # License
 
 Open hardware, use it, mod it, whatever you want, feel free...
