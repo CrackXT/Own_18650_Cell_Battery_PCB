@@ -4,7 +4,7 @@ PCB files for a 18650 cell mount on a separate board
 
 # Description
 
-Compatible with 18650 cell type only!
+Compatible with protected 18650 cell type only!
 
 This is an external battery cell board that allows you to mount the appropriate cell holder (18650) and thus have better connection and mounting options in your project or case.
 
